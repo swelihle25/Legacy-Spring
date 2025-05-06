@@ -13,14 +13,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+<<<<<<< HEAD
         <option value="Interface" />
         <option value="Class" />
+=======
+        <option value="Class" />
+        <option value="Interface" />
+>>>>>>> 750073398be062c163a02f82a0974a62e4d1cfe8
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
@@ -33,6 +39,8 @@
     &quot;accountId&quot;: &quot;7718f491-a7ae-40fe-a82d-0a6a8cde4f90&quot;
   }
 }</component>
+=======
+>>>>>>> 750073398be062c163a02f82a0974a62e4d1cfe8
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -46,19 +54,32 @@
     "Application.MyApp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "RunOnceActivity.git.unshallow": "true",
     "Smart Tomcat.Legacy-Spring-Tomcat.executor": "Run",
     "last_opened_file_path": "/home/lihle/Downloads/Legacy-Spring",
+=======
+    "Smart Tomcat.Legacy-Spring-Tomcat.executor": "Run",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/lihle/Downloads/Legacy-Spring/lib",
+>>>>>>> 750073398be062c163a02f82a0974a62e4d1cfe8
     "onboarding.tips.debug.path": "/home/lihle/Downloads/Legacy-Spring/lib/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+<<<<<<< HEAD
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+=======
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+>>>>>>> 750073398be062c163a02f82a0974a62e4d1cfe8
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+<<<<<<< HEAD
       <recent name="$PROJECT_DIR$/lihle" />
+=======
+>>>>>>> 750073398be062c163a02f82a0974a62e4d1cfe8
       <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -67,10 +88,15 @@
   </component>
   <component name="RunManager" selected="Application.MyApp">
     <configuration name="MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+<<<<<<< HEAD
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="MyApp" />
       <module name="Legacy-Spring" />
+=======
+      <option name="MAIN_CLASS_NAME" value="MyApp" />
+      <module name="src" />
+>>>>>>> 750073398be062c163a02f82a0974a62e4d1cfe8
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,10 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <list>
       <item itemvalue="Application.MyApp" />
       <item itemvalue="Smart Tomcat.Legacy-Spring-Tomcat" />
     </list>
+=======
+>>>>>>> 750073398be062c163a02f82a0974a62e4d1cfe8
     <recent_temporary>
       <list>
         <item itemvalue="Application.MyApp" />

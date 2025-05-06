@@ -1,3 +1,4 @@
+
 import lihle.com.lihle.springdemo.Coach;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
@@ -13,4 +14,3 @@ public class MyApp {
     }
 
 
-}
